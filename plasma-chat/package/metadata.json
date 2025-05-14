@@ -1,0 +1,19 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "your-email@example.com",
+        "Name": "Mohamed Muaath Rifath L M"
+      }
+    ],
+    "Category": "Utilities",
+    "Description": "AI-powered chat assistant using Gemini Flash 2.0",
+    "Icon": "dialog-messages",
+    "Id": "me.muaathrifath.plasmachat",
+    "Name": "Plasma Chat",
+    "Version": "1.0",
+    "Website": "https://github.com/yourusername/plasma-chat"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+} 
